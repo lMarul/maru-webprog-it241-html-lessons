@@ -32,6 +32,17 @@ p {
   line-height: 1.6;
 }
 
+ul {
+  text-align: left;
+  color: indigo;
+  line-height: 1.8;
+  display: inline-block;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
 img {
   max-width: 100%;
   height: auto;
