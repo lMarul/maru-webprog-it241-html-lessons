@@ -36,8 +36,7 @@ ul {
   text-align: left;
   color: indigo;
   line-height: 1.8;
-  display: inline-block;
-  margin: 0 auto;
+  padding-left: 20px;
 }
 
 li {
