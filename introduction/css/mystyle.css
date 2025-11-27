@@ -37,6 +37,7 @@ ul {
   color: indigo;
   line-height: 1.8;
   display: inline-block;
+  margin: 0 auto;
 }
 
 li {
